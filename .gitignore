@@ -1,0 +1,35 @@
+# Data — too large for GitHub, tracked separately
+data/raw/
+data/dem/
+data/processed/features_all.parquet
+data/processed/features_all.csv
+data/processed/predictors/
+
+# Trained model weights
+results/models/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+.env
+.venv
+env/
+
+# OS
+.DS_Store
+*.swp
+Thumbs.db
+
+# Logs and temp
+*.log
+tmp/
+temp/
