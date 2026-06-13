@@ -1,0 +1,32 @@
+name: m4-lsm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy>=1.26
+  - pandas>=2.0
+  - scipy>=1.11
+  - scikit-learn>=1.3
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - jupyter
+  - ipykernel
+  - geopandas>=0.14
+  - rasterio>=1.3
+  - fiona>=1.9
+  - pyproj>=3.6
+  - shapely>=2.0
+  - xarray>=2023.6
+  - richdem>=0.3
+  - gdal>=3.7
+  - xgboost>=2.0
+  - lightgbm>=4.0
+  - tqdm
+  - joblib
+  - pip:
+    - shap>=0.43
+    - imbalanced-learn>=0.11
+    - statsmodels>=0.14
+    - elevation
+    - pysheds

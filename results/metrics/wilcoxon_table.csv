@@ -1,0 +1,10 @@
+Model A,Model B,p-value,Significant,Mean AUC A,Mean AUC B
+RF,RF,—,—,,
+RF,GBM,0.0625,no,0.8861,0.8818
+RF,XGBoost,0.3125,no,0.8861,0.8829
+GBM,RF,—,—,,
+GBM,GBM,—,—,,
+GBM,XGBoost,0.8125,no,0.8818,0.8829
+XGBoost,RF,—,—,,
+XGBoost,GBM,—,—,,
+XGBoost,XGBoost,—,—,,
