@@ -1,11 +1,11 @@
 # M-4 — Landslide Susceptibility Mapping
 ## XGBoost · Gradient Boosting Machine · Random Forest
 
-**Project:** IITK SURGE 2026 — Landslide Toolkit Lab
-**Student:** Vikash Kumar Yadav · NIT Warangal
-**Mentor:** Dr. Shyam Nandan · IIT Kanpur
-**Dataset:** Hao 2020 Kerala 2018 monsoon landslide inventory (DS-1, 4,728 events)
-**Reference:** Sahin (2020) *SN Applied Sciences* 2:1308
+**Project:** IITK SURGE 2026 — Landslide Toolkit Lab<br>
+**Student:** Vikash Kumar Yadav · NIT Warangal<br>
+**Mentor:** Dr. Shyam Nandan · IIT Kanpur<br>
+**Dataset:** Hao 2020 Kerala 2018 monsoon landslide inventory (DS-1, 4,728 events)<br>
+**Reference:** Sahin (2020) *SN Applied Sciences* 2:1308<br>
 
 ---
 
