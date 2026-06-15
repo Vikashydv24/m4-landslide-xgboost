@@ -1,35 +1,16 @@
-# Data — too large for GitHub, tracked separately
+# Large data files — not tracked in git
 data/raw/
 data/dem/
-data/processed/features_all.parquet
-data/processed/features_all.csv
-data/processed/predictors/
+data/processed/
 
-# Trained model weights
-results/models/*.pkl
+# Trained model weights — large binary files
+results/models/
 
-# Jupyter checkpoints
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
-
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
-*.egg-info/
-.eggs/
-dist/
-build/
-*.so
-.env
-.venv
-env/
+.ipynb_checkpoints/
 
-# OS
+# OS files
 .DS_Store
 *.swp
-Thumbs.db
-
-# Logs and temp
-*.log
-tmp/
-temp/
