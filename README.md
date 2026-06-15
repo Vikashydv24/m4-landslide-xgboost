@@ -3,7 +3,7 @@
 
 **Project:** IITK SURGE 2026 — Landslide Toolkit Lab
 **Student:** Vikash Kumar Yadav · NIT Warangal
-**Mentor:** Dr. Shyam Nandan · Department of Earth Science · IIT Kanpur
+**Mentor:** Dr. Shyam Nandan · IIT Kanpur
 **Dataset:** Hao 2020 Kerala 2018 monsoon landslide inventory (DS-1, 4,728 events)
 **Reference:** Sahin (2020) *SN Applied Sciences* 2:1308
 
@@ -11,7 +11,7 @@
 
 ## Overview
 
-This repository reproduces model M-4 of the IITK Landslide Toolkit —
+This repository reproduces model M-4  (Landslide Susceptibility Mapping)of the IITK Landslide Toolkit ,
 a comparative assessment of three ensemble tree-based machine learning
 algorithms (XGBoost, GBM, Random Forest) for landslide susceptibility
 mapping in Kerala, India, using the 2018 monsoon event dataset.
